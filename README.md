@@ -1,7 +1,7 @@
 # Hundir la flota
 
 Juego de **Hundir la flota** hecho en Python con NumPy. Se juega contra la máquina, que dispara de forma aleatoria.
-![Foto Hundir la Flota](https://www.istockphoto.com/es/ilustraciones/hundir)
+![Foto Hundir la Flota](istockphoto-1337405629-612x612.jpg)
 ## Reglas
 
 - Cada jugador tiene dos tableros: uno con sus barcos y otro donde anota sus disparos.
