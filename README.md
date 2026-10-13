@@ -23,7 +23,7 @@ Juego de **Hundir la flota** hecho en Python con NumPy. Se juega contra la máqu
 
 1. Instala lo necesario: `pip install numpy notebook`
 2. Abre el notebook y ejecuta las celdas en orden.
-3. Elige el tamaño del tablero (10, 15 o 20).
+3. El tamaño del tablero será 10 automaticamente.
 4. Coloca tus barcos indicando fila, columna y orientación (N, S, E, O).
 5. Dispara escribiendo fila y columna (empiezan en 0). Escribe `salir` para terminar.
 
